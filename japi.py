@@ -25,6 +25,7 @@ def main():
             file.write(output)
 
         else:
+            print('Stock Quotes retrieved successfully!')
             print('Goodbye!')
             break
 main()
